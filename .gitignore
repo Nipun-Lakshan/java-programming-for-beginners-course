@@ -1,0 +1,17 @@
+# Ignore all files by default
+*
+
+# Allow folders
+!*/
+
+# Allow Java source files
+!*.java
+
+# Allow Markdown files
+!*.md
+
+# Allow PDF files
+!*.pdf
+
+# Allow Git ignore file
+!.gitignore
